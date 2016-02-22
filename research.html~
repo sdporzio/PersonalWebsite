@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Davide Porzio - Home</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+  </head>
+  <body>
+    <div id="wrap">
+
+
+      <div id="top">
+	<h2>Davide Porzio</a></h2>
+	<div id="menu">
+	  <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html" class="current">Research</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="documentation.html">Documentation</a></li>
+	  </ul>
+	</div>
+      </div>
+
+
+      <div id="content">
+	<div id="center">
+	  <h2>Research</h2>
+	  <p>Work in progressls
+.</p>
+	</div>
+
+
+	
+	<div id="clear"></div>
+      </div>
+
+
+      <div id="footer">
+	<p>Last update: November 2015</p>
+      </div>
+
+
+    </div>
+  </body>
+</html>
+
+
+
